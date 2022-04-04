@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-tsx",
     "path": "/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Yeppyshiba Blog","description":null,"siteUrl":"https://blog.yeppyshiba.com"}},"allMarkdownRemark":{"edges":[{"node":{"id":"df200179-c508-5d42-91dc-e4e27e72581a","fields":{"slug":"/hello-world/","path":"/article/hello-world/"},"frontmatter":{"title":"hello","date":"2022-04-03T12:08:12.984Z"}}}]}},"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Yeppyshiba Blog","description":null,"siteUrl":"https://blog.yeppyshiba.com"}},"allMarkdownRemark":{"edges":[{"node":{"id":"2a32ba0d-e6d8-5caa-a537-e41a8a15eead","fields":{"slug":"/hello-world/","path":"/article/hello-world/"},"frontmatter":{"title":"hello","date":"2022-04-03T12:08:12.984Z"}}}]}},"pageContext":{}},
     "staticQueryHashes": ["3159585216"]}
