@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-tsx",
     "path": "/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Yeppyshiba Blog","description":null,"siteUrl":"https://blog.yeppyshiba.com"}},"categories":{"group":[{"fieldValue":"coding","totalCount":1}]},"tags":{"group":[{"fieldValue":"coding","totalCount":1},{"fieldValue":"dev","totalCount":1}]}},"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Yeppyshiba Blog","description":null,"siteUrl":"https://blog.yeppyshiba.com"}},"featured":[{"slug":"hello","id":"72736fb9-6682-509f-ad9a-58468ee80edb","frontmatter":{"tags":["dev","coding"],"title":"hello","summary":"hello world","image":"","date":"2022-04-03T12:08:12.984Z","category":"coding"}}],"categories":{"group":[{"fieldValue":"coding","totalCount":1}]},"tags":{"group":[{"fieldValue":"coding","totalCount":1},{"fieldValue":"dev","totalCount":1}]}},"pageContext":{}},
     "staticQueryHashes": ["3764592887"]}
